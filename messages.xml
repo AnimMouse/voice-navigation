@@ -1,0 +1,73 @@
+<voice_instructions>
+  <maneuver_message id="1">1.ogg</maneuver_message>
+  <maneuver_message id="18">18.ogg</maneuver_message>
+  <maneuver_message id="9">9.ogg</maneuver_message>
+  <predefined_message type="NAVIGATION_RESUMED">NAVIGATION_RESUMED.ogg</predefined_message>
+  <predefined_message type="DESTINATION_WILL_BE_ON_LEFT">DESTINATION_WILL_BE_ON_LEFT.ogg</predefined_message>
+  <maneuver_message id="36">36.ogg</maneuver_message>
+  <distance_message min="2897" max="4345">in_2_miles.ogg</distance_message>
+  <distance_message min="168" max="225">in_600_feet.ogg</distance_message>
+  <maneuver_message id="2">2.ogg</maneuver_message>
+  <maneuver_message id="17">17.ogg</maneuver_message>
+  <maneuver_message id="16">16.ogg</maneuver_message>
+  <distance_message min="725" max="1126">in_a_half_mile.ogg</distance_message>
+  <distance_message min="0" max="28">in_50_feet.ogg</distance_message>
+  <maneuver_message id="27">27.ogg</maneuver_message>
+  <maneuver_message id="15">15.ogg</maneuver_message>
+  <maneuver_message id="22">22.ogg</maneuver_message>
+  <predefined_message type="GPS_LOST">GPS_LOST.ogg</predefined_message>
+  <maneuver_message id="25">25.ogg</maneuver_message>
+  <predefined_message type="ARRIVED">ARRIVED.ogg</predefined_message>
+  <maneuver_message id="11">11.ogg</maneuver_message>
+  <maneuver_message id="21">21.ogg</maneuver_message>
+  <predefined_message type="PLEASE_DESCRIBE_PROBLEM">PLEASE_DESCRIBE_PROBLEM.ogg</predefined_message>
+  <maneuver_message id="23">23.ogg</maneuver_message>
+  <maneuver_message id="12">12.ogg</maneuver_message>
+  <maneuver_message id="6">6.ogg</maneuver_message>
+  <distance_message min="113" max="140">in_400_feet.ogg</distance_message>
+  <maneuver_message id="35">35.ogg</maneuver_message>
+  <distance_message min="2093" max="2896">in_1_and_a_half_miles.ogg</distance_message>
+  <maneuver_message id="8">8.ogg</maneuver_message>
+  <distance_message min="58" max="85">in_200_feet.ogg</distance_message>
+  <maneuver_message id="32">32.ogg</maneuver_message>
+  <maneuver_message id="34">34.ogg</maneuver_message>
+  <maneuver_message id="20">20.ogg</maneuver_message>
+  <distance_message min="1127" max="1528">in_three_quarters_of_a_mile.ogg</distance_message>
+  <distance_message min="45" max="57">in_150_feet.ogg</distance_message>
+  <maneuver_message id="33">33.ogg</maneuver_message>
+  <distance_message min="141" max="167">in_500_feet.ogg</distance_message>
+  <predefined_message type="DATA_LOST">DATA_LOST.ogg</predefined_message>
+  <distance_message min="86" max="112">in_300_feet.ogg</distance_message>
+  <maneuver_message id="38">38.ogg</maneuver_message>
+  <maneuver_message id="31">31.ogg</maneuver_message>
+  <maneuver_message id="26">26.ogg</maneuver_message>
+  <maneuver_message id="19">19.ogg</maneuver_message>
+  <predefined_message type="DESTINATION_ON_RIGHT">DESTINATION_ON_RIGHT.ogg</predefined_message>
+  <distance_message min="397" max="724">in_a_quarter_mile.ogg</distance_message>
+  <maneuver_message id="24">24.ogg</maneuver_message>
+  <maneuver_message id="30">30.ogg</maneuver_message>
+  <maneuver_message id="10">10.ogg</maneuver_message>
+  <predefined_message type="GENERIC_CONTINUE">GENERIC_CONTINUE.ogg</predefined_message>
+  <maneuver_message id="14">14.ogg</maneuver_message>
+  <maneuver_message id="3">3.ogg</maneuver_message>
+  <predefined_message type="DESTINATION_WILL_BE_ON_RIGHT">DESTINATION_WILL_BE_ON_RIGHT.ogg</predefined_message>
+  <distance_message min="4346" max="5632">in_3_miles.ogg</distance_message>
+  <maneuver_message id="39">39.ogg</maneuver_message>
+  <maneuver_message id="29">29.ogg</maneuver_message>
+  <maneuver_message id="13">13.ogg</maneuver_message>
+  <distance_message min="226" max="289">in_800_feet.ogg</distance_message>
+  <maneuver_message id="37">37.ogg</maneuver_message>
+  <maneuver_message id="28">28.ogg</maneuver_message>
+  <maneuver_message id="4">4.ogg</maneuver_message>
+  <predefined_message type="THEN">THEN.ogg</predefined_message>
+  <predefined_message type="WILL_ARRIVE">WILL_ARRIVE.ogg</predefined_message>
+  <maneuver_message id="5">5.ogg</maneuver_message>
+  <distance_message min="29" max="44">in_100_feet.ogg</distance_message>
+  <distance_message min="1529" max="2092">in_1_mile.ogg</distance_message>
+  <predefined_message type="DESTINATION_ON_LEFT">DESTINATION_ON_LEFT.ogg</predefined_message>
+  <maneuver_message id="40">40.ogg</maneuver_message>
+  <distance_message min="290" max="396">in_1000_feet.ogg</distance_message>
+  <maneuver_message id="7">7.ogg</maneuver_message>
+  <maneuver_message id="41" suppressed="true"/>
+  <maneuver_message id="42" suppressed="true"/>
+</voice_instructions>
